@@ -1,3 +1,6 @@
 # > DC Universe
-DOMAIN-SUFFIX,dcuniverseinfinite.com,"DC Universe"
-DOMAIN-SUFFIX,wbdndc.net,"DC Universe"
+DOMAIN-SUFFIX,dcuniverseinfinite.com
+DOMAIN-SUFFIX,wbdndc.net,DC Universe
+
+# comixology
+DOMAIN,www.amazon.com/comixology
