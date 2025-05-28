@@ -1,4 +1,4 @@
-#!name=机场流量信息
+#!name=sspai.module
 #!desc=绕过 sspai.com 站内 CDN 图片无法在站外显示的屏蔽措施。
 #!category=Optimization
 
