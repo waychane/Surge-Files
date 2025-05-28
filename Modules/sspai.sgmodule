@@ -1,3 +1,6 @@
+[Module]
+name = 高级重写模块
+
 [URL Rewrite]
 ^https?:\/\/cdn\.sspai\.com https://cdnfile.sspai.com 302
 
