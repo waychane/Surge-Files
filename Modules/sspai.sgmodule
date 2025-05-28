@@ -1,5 +1,6 @@
-[Module]
-name = 高级重写模块
+#!name=机场流量信息
+#!desc=绕过 sspai.com 站内 CDN 图片无法在站外显示的屏蔽措施。
+#!category=Optimization
 
 [URL Rewrite]
 ^https?:\/\/cdn\.sspai\.com https://cdnfile.sspai.com 302
