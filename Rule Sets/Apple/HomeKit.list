@@ -1,0 +1,8 @@
+# Apple HomeKit / iCloud Remote Video / CloudKit / Push
+DOMAIN-SUFFIX,push.apple.com
+DOMAIN-SUFFIX,apple-cloudkit.com
+DOMAIN-SUFFIX,homekit.icloud.com
+DOMAIN-SUFFIX,homeassistant.apple.com
+DOMAIN-SUFFIX,hkactivity.apple.com
+DOMAIN-SUFFIX,icloud-push.com
+DOMAIN-SUFFIX,ess.apple.com
