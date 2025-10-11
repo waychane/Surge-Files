@@ -44,7 +44,7 @@ DOMAIN-SUFFIX,okxglobal.com
 DOMAIN-SUFFIX,okxcn.com
 DOMAIN-SUFFIX,okxvip.com
 
-# 历史与品牌相关域（兼容旧版本或第三方工具）
+# 历史与品牌相关域 (兼容旧版本或第三方工具)
 DOMAIN-SUFFIX,okex.io
 DOMAIN-SUFFIX,okex.top
 DOMAIN-SUFFIX,okexcn.com
