@@ -1,0 +1,63 @@
+# OKX / OKEx / OKLink / OKX Web3 Routing List
+# Version: 11.10.25
+# Author: Wayne
+
+# 主站与核心域名
+DOMAIN-SUFFIX,okx.com
+DOMAIN-SUFFIX,okex.com
+DOMAIN-SUFFIX,okx.global
+DOMAIN-SUFFIX,okx.us
+DOMAIN-SUFFIX,okx.com.cn
+
+# API / WebSocket / 用户中心
+DOMAIN,api.okx.com
+DOMAIN,app.okx.com
+DOMAIN,my.okx.com
+DOMAIN,ws.okx.com
+DOMAIN,wsus.okx.com
+DOMAIN,web3.okx.com
+DOMAIN,pay.okx.com
+DOMAIN,link.okx.com
+DOMAIN,static.okx.com
+DOMAIN,us.okx.com
+
+# 区块链服务与链上工具 (OKLink / OKChain)
+DOMAIN-SUFFIX,oklink.com
+DOMAIN,explorer.oklink.com
+DOMAIN,okxchain.okx.com
+DOMAIN,okxchain.com
+DOMAIN,oktc.com
+
+# DNS / CDN / 网络层服务
+DOMAIN-SUFFIX,okx-dns.com
+DOMAIN-SUFFIX,okx-dns1.com
+DOMAIN-SUFFIX,okx-dns2.com
+DOMAIN,cdn.okx.com
+DOMAIN,static.okxcdn.com
+
+# 镜像 / 区域站点 / 营销页面
+DOMAIN-SUFFIX,okx.me
+DOMAIN-SUFFIX,okx.pro
+DOMAIN-SUFFIX,okx.site
+DOMAIN-SUFFIX,okxhub.com
+DOMAIN-SUFFIX,okxglobal.com
+DOMAIN-SUFFIX,okxcn.com
+DOMAIN-SUFFIX,okxvip.com
+
+# 历史与品牌相关域（兼容旧版本或第三方工具）
+DOMAIN-SUFFIX,okex.io
+DOMAIN-SUFFIX,okex.top
+DOMAIN-SUFFIX,okexcn.com
+DOMAIN-SUFFIX,okexhk.com
+DOMAIN-SUFFIX,okex.pro
+
+# 安全校验与杂项
+DOMAIN,identity.okx.com
+DOMAIN,verify.okx.com
+DOMAIN,accounts.okx.com
+DOMAIN,kyc.okx.com
+
+# 备用与暂时域
+DOMAIN-SUFFIX,okxhelp.com
+DOMAIN-SUFFIX,okxstatus.com
+DOMAIN-SUFFIX,okxinsight.com
