@@ -1,25 +1,3 @@
-# OKX / OKEx / OKLink / OKX Web3 Routing List
-# Version: 11.10.25
-# Author: Wayne
-
-# Primary domains (DOMAIN-SUFFIX covers all subdomains)
-DOMAIN-SUFFIX,okx.com
 DOMAIN-SUFFIX,okex.com
-DOMAIN-SUFFIX,okx.global
-DOMAIN-SUFFIX,okx.us
-DOMAIN-SUFFIX,okx.com.cn
-
-# Blockchain services (OKLink / OKChain)
 DOMAIN-SUFFIX,oklink.com
-DOMAIN-SUFFIX,okxchain.com
-DOMAIN-SUFFIX,oktc.com
-
-# CDN
-DOMAIN-SUFFIX,okxcdn.com
-
-# Legacy / brand-related domains (kept for backward compatibility)
-DOMAIN-SUFFIX,okex.io
-DOMAIN-SUFFIX,okex.top
-DOMAIN-SUFFIX,okexcn.com
-DOMAIN-SUFFIX,okexhk.com
-DOMAIN-SUFFIX,okex.pro
+DOMAIN-SUFFIX,okx.com
