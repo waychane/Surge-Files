@@ -1,0 +1,48 @@
+# NAME: Comix
+# AUTHOR: waychane
+# UPDATED: 2026-05-11 12:03:52 CST
+# DESCRIPTION: Surge rule set for US comic / digital-comics services. Domain-focused to avoid over-broad CDN / Amazon routing.
+# DOMAIN: 2
+# DOMAIN-SUFFIX: 24
+# TOTAL: 26
+
+# Comixology / Kindle Comics.
+DOMAIN-SUFFIX,comixology.com
+DOMAIN,read.amazon.com
+DOMAIN,kindle.amazon.com
+
+# Marvel Unlimited / Marvel digital comics
+DOMAIN-SUFFIX,marvel.com
+
+# DC Universe Infinite / DC Comics.
+DOMAIN-SUFFIX,dcuniverseinfinite.com
+DOMAIN-SUFFIX,dc.com
+DOMAIN-SUFFIX,dccomics.com
+
+# Dark Horse Digital.
+DOMAIN-SUFFIX,darkhorse.com
+DOMAIN-SUFFIX,darkhorsecomics.com
+
+# Image Comics / Skybound
+DOMAIN-SUFFIX,imagecomics.com
+DOMAIN-SUFFIX,skybound.com
+
+# IDW / BOOM! / Dynamite / Valiant / Oni / Archie.
+DOMAIN-SUFFIX,idwpublishing.com
+DOMAIN-SUFFIX,boom-studios.com
+DOMAIN-SUFFIX,dynamite.com
+DOMAIN-SUFFIX,valiantentertainment.com
+DOMAIN-SUFFIX,onipress.com
+DOMAIN-SUFFIX,archiecomics.com
+
+# Digital comic stores / libraries / platforms.
+DOMAIN-SUFFIX,globalcomix.com
+DOMAIN-SUFFIX,drivethrucomics.com
+DOMAIN-SUFFIX,hoopladigital.com
+DOMAIN-SUFFIX,overdrive.com
+DOMAIN-SUFFIX,libbyapp.com
+DOMAIN-SUFFIX,humblebundle.com
+
+# Web comics / vertical comics commonly used in the US.
+DOMAIN-SUFFIX,webtoons.com
+DOMAIN-SUFFIX,tapas.io
