@@ -1,4 +1,3 @@
-# Removed: DOMAIN,music.youtube.com — covered by DOMAIN-SUFFIX,youtube.com.
 DOMAIN-SUFFIX,ggpht.cn
 DOMAIN-SUFFIX,ggpht.com
 DOMAIN-SUFFIX,googlevideo.com
@@ -8,7 +7,7 @@ DOMAIN-SUFFIX,video.google.com
 DOMAIN-SUFFIX,wide-youtube.l.google.com
 DOMAIN-SUFFIX,withyoutube.com
 DOMAIN-SUFFIX,youtu.be
-# Removed: DOMAIN-SUFFIX,youtube — invalid, never matches without a TLD.
+DOMAIN-SUFFIX,youtube
 DOMAIN-SUFFIX,youtube-nocookie.com
 DOMAIN-SUFFIX,youtube-ui.l.google.com
 DOMAIN-SUFFIX,youtube.ae
@@ -178,5 +177,14 @@ DOMAIN-SUFFIX,youtubekids.com
 DOMAIN-SUFFIX,youtubemobilesupport.com
 DOMAIN-SUFFIX,yt.be
 DOMAIN-SUFFIX,ytimg.com
-# Removed: DOMAIN-KEYWORD,youtube — overly broad, may match unrelated domains containing "youtube"; explicit DOMAIN-SUFFIX entries above are sufficient.
-# Removed: IP-CIDR ranges (172.110.32.0/21, 216.73.80.0/20, 2620:120:e000::/40) — not in Google's official ASN (AS15169) IP ranges, likely outdated.
+DOMAIN-KEYWORD,youtube
+IP-CIDR,172.110.32.0/21,no-resolve
+IP-CIDR,216.73.80.0/20,no-resolve
+IP-CIDR6,2620:120:e000::/40,no-resolve
+USER-AGENT,*YouTubeMusic*
+USER-AGENT,*com.google.ios.youtubemusic*
+USER-AGENT,*youtube*
+USER-AGENT,YouTube*
+USER-AGENT,YouTubeMusic*
+USER-AGENT,com.google.ios.youtube*
+USER-AGENT,com.google.ios.youtubemusic*
