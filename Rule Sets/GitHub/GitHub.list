@@ -3,7 +3,7 @@ DOMAIN-SUFFIX,dependabot.com
 DOMAIN-SUFFIX,ghcr.io
 DOMAIN-SUFFIX,git.io
 DOMAIN-SUFFIX,github-atom-io-herokuapp-com.freetls.fastly.net
-# Removed: github-avatars.oss-cn-hongkong.aliyuncs.com — Aliyun OSS bucket hosted in HK, no benefit from proxying.
+DOMAIN-SUFFIX,github-avatars.oss-cn-hongkong.aliyuncs.com
 DOMAIN-SUFFIX,github-cloud.s3.amazonaws.com
 DOMAIN-SUFFIX,github.blog
 DOMAIN-SUFFIX,github.com
