@@ -1,6 +1,5 @@
-#!name=AI Usage Panel Script
-#!desc=Installs the generic Script used by the AI Usage Panel. Add the [Panel] entry described in README.md.
-#!arguments=endpoint=https%3A%2F%2Fexample.invalid%2Fai-usage.json
-
+#!name=[waychane] AI Usage Panel
+#!category=waychane
+#!desc=A unified Surge panel for monitoring usage, quotas, and reset times across Codex, Gemini, Claude, Grok, and more.
 [Script]
 ai-usage = type=generic,script-path=https://raw.githubusercontent.com/waychane/Surge-Files/main/Modules/AI-Usage/ai-usage-panel.js,script-update-interval=86400,argument=endpoint=%endpoint%
